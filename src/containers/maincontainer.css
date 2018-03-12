@@ -1,0 +1,8 @@
+.MainContainer {
+  background-color: blue;
+  display: flex;
+}
+
+#flexBox {
+  display: flex; 
+}
