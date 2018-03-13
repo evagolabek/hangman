@@ -1,1 +1,5 @@
-export default {} // empty for now!
+import guesses from './guesses'
+
+export default {
+  guesses,
+}
